@@ -1,12 +1,7 @@
 # Tutorial Penggunaan Software
 
-<aside>
 ⚠️ Pastikan **[Node.js](https://nodejs.org/en)** telah terinstall di komputer anda!
-</aside>
-
-<aside>
 📌 Semua bagian yang menggunakan **Arduino Uno** digunakan **PlatformIO IDE dari VSCode**, jadi upload kode ke Arduino menggunakan PlatformIO!
-</aside>
 
 ## Penulis Kartu RFID
 
